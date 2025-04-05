@@ -1,0 +1,6 @@
+keras==2.12.0
+nltk==3.5
+numpy==1.23.5
+pandas==1.5.3
+torch==2.0.1
+transformers==4.18.0

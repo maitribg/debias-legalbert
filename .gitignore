@@ -1,0 +1,4 @@
+# Ignore heavy result folder
+results-old/
+# Ignore heavy model files
+models/*.bin

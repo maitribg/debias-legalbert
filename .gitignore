@@ -2,3 +2,5 @@
 results-old/
 # Ignore heavy model files
 models/*.bin
+__pycache__/
+*.pyc
